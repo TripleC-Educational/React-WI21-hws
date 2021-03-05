@@ -10,6 +10,6 @@
  * Google 'String template literals' and use it instead.
  * 
  * Hint:
- * Google how to use 'Date' to get the current date, month, and year
+ * Google how to use the 'Date' object to get the current date, month, and year
  * before moving forward
  */
