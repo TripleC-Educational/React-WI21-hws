@@ -1,7 +1,7 @@
 # Homework 2
 
 在本次作业中，你需要完成一个基础的 ```TODO list``` app  
-具体完成后的样子请参考：[这个链接](https://replit.com/@dekunma/educational-basic-todos#src/App.js)
+具体完成后的样子请参考：[这个链接](https://educational-basic-todos.dekunma.repl.co/)
 
 ## 详述
 - 你需要完成一个 ```TODO``` class （对应的文件在 ```src/TODO.js``` 这个目录）  
