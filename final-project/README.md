@@ -14,6 +14,9 @@
 
 ![demo.png](https://i.loli.net/2021/04/18/HXw7uxeMDYd4bva.png)
 
+## Due date
+- 5/7/2021
+
 ## Get started
 ### Step 1
 获取并启动项目
@@ -76,6 +79,7 @@
 2. 可以使用包括但不限于```Material UI```, ```Semantic UI```等任意UI库来完成。
 3. 建议开始之前认真研究一下调用api返回的数据，参考```openweathermap.org```的[官方文档](https://openweathermap.org/)。也可以把获取的数据 ```console.log()``` 出来看一下。
 4. API获取每天有1000次的限制，如果在配置正确的情况下无法获取数据，可能是已经超过上限了。
+5. 粗略估计，完整完成这个项目需要花费大概 6 - 10 小时 
 
 ## 其他任何问题
 可以直接在微信群上问，或者私戳我  
